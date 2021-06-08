@@ -69,7 +69,7 @@ System.out.printf("",);
 
 ![boyoung](MarkDownGrammer.assets/boyoung.png)
 
-![img](c:/my_dir/git_class/MarkDownGrammer.assets/boyoung.png)
+![img](c:/my_dir/git_class/GitHub_SC/MarkDownGrammer.assets/boyoung.png)
 
 
 
