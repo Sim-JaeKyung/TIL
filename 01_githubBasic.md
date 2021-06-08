@@ -71,6 +71,8 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 $ git pull origin master
 ```
 
+> "git아, origin이라는 원격 저장소에 master에 수정된 내용들을 받아와줘"
+
 <br>
 
 ### clone
